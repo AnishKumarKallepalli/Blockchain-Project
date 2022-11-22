@@ -1,0 +1,95 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@AnishKumarKallepalli 
+bukosabino
+/
+truffle-voting-dapp
+Public
+Code
+Issues
+1
+Pull requests
+2
+Actions
+Projects
+Security
+Insights
+truffle-voting-dapp/.gitignore
+
+Dario first commit
+Latest commit c7b38be on Feb 12, 2018
+ History
+ 0 contributors
+50 lines (38 sloc)  511 Bytes
+
+## Truffle
+
+node_modules
+.DS_Store
+.tern-port
+yarn.lock
+package-lock.json
+dependencies
+*.log
+/build
+.truffle-solidity-loader
+
+## Solidity
+
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+allFiredEvents
+scTopics
+
+# Coverage directory used by tools like istanbul
+coverage
+coverage.json
+coverageEnv
+
+# node-waf configuration
+.lock-wscript
+
+# Dependency directory
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# local env variables
+.env
+
+# truffle build directory
+build/
+
+# lol macs
+.DS_Store/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+truffle-voting-dapp/.gitignore at master · bukosabino/truffle-voting-dapp
