@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(
+      to right bottom,
+      #b91eda,
+      #a02ae0,
+      #8234e5,
+      #5d3be8,
+      #1241eb
+    );
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+h1{
+    color:#EAEAEA;
+    font-family: 'Roboto', sans-serif;
+}
+.panel-item
+{
+    background-color: white;
+    color:black;
+}
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Montserrat:300,400,700,800|Open+Sans:300');
+.btn
+{
+    background-color: #2146C7;
+}
+
+
+  
+.card:hover
+{box-shadow: 0px 0px 50px #3C4048;
+  transition: 0.3s;
+  animation: glow;
+  
+};
+  
+

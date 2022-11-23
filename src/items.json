@@ -5,23 +5,24 @@
     "picture": "images/adidas.jpg",
     "price": 200
   },
+
   {
     "id": 1,
-    "name": "Apple Watch",
-    "picture": "images/apple.jpeg",
-    "price": 300
-  },
-  {
-    "id": 2,
     "name": "Cloud Nike Shoes",
     "picture": "images/nike.jpg",
     "price": 250
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Samsung S22 Ultra",
     "picture": "images/s22.jpg",
     "price": 2000
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch",
+    "picture": "images/apple.jpeg",
+    "price": 300
   },
   {
     "id": 4,
