@@ -1,5 +1,5 @@
-var Adoption = artifacts.require("./Adoption.sol");
+var Buying = artifacts.require("./Buying.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Adoption);
+  deployer.deploy(Buying);
 };
