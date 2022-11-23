@@ -1,0 +1,39 @@
+[
+  {
+    "id": 0,
+    "name": "Summer Adidas Shoes",
+    "picture": "images/adidas.jpeg",
+    "price": 200
+  },
+  {
+    "id": 1,
+    "name": "Apple Watch",
+    "picture": "images/apple.jpeg",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "name": "Cloud Nike Shoes",
+    "picture": "images/nike.jpg",
+    "price": 250
+  },
+  {
+    "id": 3,
+    "name": "Samsung S22 Ultra",
+    "picture": "images/s22.jpg",
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "picture": "images/reddragon.jpg",
+    "price": 100
+  },
+  {
+    "id": 5,
+    "name": "Kindle",
+    "picture": "images/kindle.jpg",
+    "price": 150
+  }
+
+]
