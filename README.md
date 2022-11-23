@@ -33,7 +33,7 @@ Return back to the terminal and run the following command
 This migrates the contract to the local blockchain. You will see an output with the transaction hash, account id, balance etc. Similarly, Ganache will also reflect this with a change in the state of the blockchain.
 
 3) Connect MetaMask to the local blockchain using the following steps
-    - Click the menu which shows 'Main Nettwork" and select Custom RPC
+    - Click the menu which shows 'Main Network" and select Custom RPC
     - In the box titled __New Network__ enter `http://127.0.0.1:7545`, click Save and close the settings
     - You will notice now that your wallet has 100 ETH or a little lower (migrating costs some gas).
 
